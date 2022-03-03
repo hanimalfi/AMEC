@@ -1,0 +1,61 @@
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="has-text-align-justify">    This is a non profit organization that aims mainly at giving help and support , information and guidance, to foreigners living in japan. The idea of this came while watching newcomers struggle to find what best matches their needs . In fact , even people who have lived in Japan for a while still face the same challenges. These challenges can be ascribed to the language barriers, the nature and the culture of the country. Hence , considering these , we took the first step to connect juniors with seniors, not only in person but rather connecting them to their experiences and conclusions. This would definitely be of your help and an easy access to many things .</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:image {"id":82,"width":134,"height":164,"linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image is-resized is-style-rounded"><a href="https://m.facebook.com/MALFI.HANI"><img src="https://frmjp.files.wordpress.com/2022/03/image-2.jpg" alt="" class="wp-image-82" width="134" height="164"/></a><figcaption><strong><a href="https://m.facebook.com/MALFI.HANI">Founder</a> </strong></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading -->
+<h2 id="community"><strong>Community </strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>    We try our best to connect as many people as possible, so we can have a multicultural community connected with one rigid goal which is to live happily and adapt faster . Through this we offer you many choices to access many other famous social media platforms. People who have lived in Japan for many years, absolutely, have gained enough experience and passed throughout many difficulties. Sharing their experiences would render a great help to everyone. This can be done through a question and an answer here or other networks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"42px"} -->
+<div style="height:42px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="what-we-do"><strong>What We Do</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>   Provide information and tips for those who find it difficult to live in Japan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="has-text-align-justify">We connect people with less experience to other experienced people .</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="has-text-align-justify">Information about famous places to visit, places to eat , places to spend time , and places to have fun …etc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="has-text-align-justify">Tips as how to find jobs local services.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->

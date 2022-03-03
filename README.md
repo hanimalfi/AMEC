@@ -1,2 +1,0 @@
-# AMEC
-AMEC
